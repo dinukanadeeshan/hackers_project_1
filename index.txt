@@ -1,1 +1,2 @@
 first statement - by master
+second statement - by master
